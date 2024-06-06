@@ -1,6 +1,6 @@
 variable "region" {
   type    = string
-  default = "eu-west-1"
+  default = "us-east-1"
 }
 
 variable "cidr_block_all_traffic" {
